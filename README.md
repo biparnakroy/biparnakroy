@@ -1,5 +1,9 @@
 ### i am noob
 
+"Good design is as little design as possible."
+  - some German motherfucker
+credits: http://motherfuckingwebsite.com/
+
 <!--
 **biparnakroy/biparnakroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
