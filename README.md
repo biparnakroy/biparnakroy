@@ -1,4 +1,4 @@
-### Hello world! 👋
+### i am noob
 
 <!--
 **biparnakroy/biparnakroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
