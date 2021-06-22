@@ -1,7 +1,8 @@
 ### i am noob
 
-"Good design is as little design as possible."
-  - some German motherfucker
+```"Good design is as little design as possible."
+        - some German motherf**ker```
+        
 credits: http://motherfuckingwebsite.com/
 
 <!--
