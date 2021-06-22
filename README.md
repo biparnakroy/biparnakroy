@@ -2,7 +2,7 @@
 
 ```
 Good design is as little design as possible.
-        - some German motherfXXker  
+        - some German _____xxxxxxr  
 ```
         
 credits: http://motherfuckingwebsite.com/
