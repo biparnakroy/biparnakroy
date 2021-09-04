@@ -1,7 +1,6 @@
 # DATASCIENCE KILLS!
 ### i am noob
 ### Arey cazz. Enjoy the experience.
-### Ora shob _____ indians!
 ```
 Good design is as little design as possible.
         - some German _____xxxxxxr  
