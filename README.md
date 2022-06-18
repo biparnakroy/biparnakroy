@@ -4,7 +4,7 @@
 ### Ami ki korte pari
 ```
 Good design is as little design as possible.
-        - some German _____xxxxxxr  
+        - some German
 ```
         
 
