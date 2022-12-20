@@ -1,5 +1,5 @@
 # DATASCIENCE KILLS!
-### i am noob (7x)
+### i am noob (8x)
 ### Arey cazz. Enjoy the experience.
 ### Ami ki korte pari
 ```
